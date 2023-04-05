@@ -1,0 +1,45 @@
+.historyList {
+  background-color: transparent;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  border: 2px solid #7e858e;
+  margin: 0px;
+  max-width: 30vw;
+  font-family: Roboto;
+}
+
+.L-title {
+  color: #334155;
+  font-size: 15px;
+  padding: 0px;
+  margin: 0px;
+  width: 10vw;
+}
+
+.L-amount {
+  color: #334155;
+  font-size: 15px;
+  padding: 0px;
+  margin: 0px;
+  width: 10vw;
+}
+
+.L-type {
+  color: #334155;
+  font-size: 15px;
+  padding: 0px;
+  margin: 0px;
+  width: 8vw;
+}
+
+.delete-button {
+  background-color: transparent;
+  border: 0px;
+}
+
+.delete-image {
+  height: 15px;
+  width: 15px;
+}
